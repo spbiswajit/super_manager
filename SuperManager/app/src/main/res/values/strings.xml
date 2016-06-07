@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Super Manager</string>
+
+    <string name="go_next">Go Next</string>
+    <string name="dummy_content">Super\nManager</string>
+</resources>
